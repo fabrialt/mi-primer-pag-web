@@ -147,3 +147,6 @@ main{
     padding: 10px;
     height: 70px; /* Definir la altura deseada */
 
+    .greeting {
+      text-align: center;
+    }
